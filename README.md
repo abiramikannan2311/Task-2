@@ -30,7 +30,7 @@ Operational Metrics: Shipping mode performance, discount impact
 
 Super store Sales ashboard.pbix → Power BI dashboard file
 
-sample superstore.xlx → Dataset used (sample Superstore dataset)
+sample superstore.csv→ Dataset used (sample Superstore dataset)
 
 README.md → Project documentation
 
